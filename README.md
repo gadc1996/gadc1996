@@ -1,16 +1,28 @@
-### Hi there 👋
+# Your Name
 
-<!--
-**gadc1996/gadc1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Software Developer | 🌐 Web Enthusiast | 💡 Lifelong Learner
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm passionate about creating awesome web applications and learning new technologies. Here's a glimpse of what you'll find:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills & Technologies
+
+- **Languages:** JavaScript, HTML, CSS, PHP
+- **Frameworks/Libraries:** Vue, Nuxt, Laravel
+- **Databases:** MySQL
+- **Tools:** Git, VS Code, Docker, Scripting
+
+## 📂 Projects
+
+- [Project 1](https://github.com/yourusername/project1): A brief description.
+
+## 📚 Blog & Articles
+
+Check out my [blog](https://yourblog.com) for tech articles and tutorials.
+
+## 📫 Contact
+
+Let's connect! Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/gabriel-delgado-557a75177/).
+
+Thanks for visiting!
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gadc1996&show_icons=true)](https://github.com/gadc1996)
