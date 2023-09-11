@@ -11,14 +11,6 @@ Welcome to my GitHub profile! I'm passionate about creating awesome web applicat
 - **Databases:** MySQL
 - **Tools:** Git, VS Code, Docker, Scripting
 
-## 📂 Projects
-
-- [Project 1](https://github.com/yourusername/project1): A brief description.
-
-## 📚 Blog & Articles
-
-Check out my [blog](https://yourblog.com) for tech articles and tutorials.
-
 ## 📫 Contact
 
 Let's connect! Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/gabriel-delgado-557a75177/).
