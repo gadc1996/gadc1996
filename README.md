@@ -6,8 +6,8 @@ Welcome to my GitHub profile! I'm passionate about creating awesome web applicat
 
 ## 🔧 Skills & Technologies
 
-- **Languages:** JavaScript, HTML, CSS, PHP
-- **Frameworks/Libraries:** Vue, Nuxt, Laravel
+- **Languages:** Python, JavaScript, HTML, CSS, PHP
+- **Frameworks/Libraries:** Django, Vue, Nuxt, Laravel
 - **Databases:** MySQL
 - **Tools:** Git, VS Code, Docker, Scripting
 
